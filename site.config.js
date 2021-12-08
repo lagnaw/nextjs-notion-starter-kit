@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Vercel Notion Blog ',
-  domain: 'transitivebullsh.it',
+  domain: 'laghzali.com',
   author: 'NL',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: '',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
